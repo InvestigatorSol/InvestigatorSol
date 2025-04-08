@@ -1,16 +1,11 @@
-## Hi there 👋
+### 👋 Hey, this is Sol Investigator a solana platform to help detect rugs and scams. We aim to provide those functionnalities in the 1st developement phase:
+- Token Reputation System
+- Insider Detection
+- Customizable Alert Systems
+- Social Media Linking
+- Comprehensive Token Reports
 
-<!--
-**InvestigatorSol/InvestigatorSol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack / Tools
+**Languages:** JavaScript, Typescript, Java, Python  
+**Frameworks:** Next.js, Angular, Spring boot
+**Databases:** Mysql, Orcale, Postgres, Sql Server
