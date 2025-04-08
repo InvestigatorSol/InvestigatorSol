@@ -7,5 +7,5 @@
 
 ### 🔧 Tech Stack / Tools
 **Languages:** JavaScript, Typescript, Java, Python  
-**Frameworks:** Next.js, Angular, Spring boot
+**Frameworks:** Next.js, Angular, Spring boot  
 **Databases:** Mysql, Orcale, Postgres, Sql Server
